@@ -1,0 +1,14 @@
+/* Theme */
+
+main {
+  background: #282828;
+  color: #ebdbb2;
+}
+
+.icons-links a {
+  color: #ebdbb2;
+}
+
+.icons-links a svg path {
+  fill: #ebdbb2;
+}
